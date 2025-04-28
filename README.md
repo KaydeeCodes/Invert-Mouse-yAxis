@@ -1,5 +1,5 @@
-# Input-Disabler-Mouse
-This is an application created in C# in Jetbrains Rider, to work on Linux Mint 21.2. This will block the Mouse input for 30seconds. while creating a log file for each execution and a timer files to link to OBS or xSplit Broadcaster for countdowns during streaming sessions. 
+# Invert-Mouse-yAxis
+This is an application created in C# in Jetbrains Rider, to work on Linux Mint 21.2. This will invert the Mouse input on the y-axis for 30seconds. while creating a log file for each execution and a timer files to link to OBS or xSplit Broadcaster for countdowns during streaming sessions. 
 
 
 ### Installation
