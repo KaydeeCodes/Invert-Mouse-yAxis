@@ -1,0 +1,14 @@
+/home/kaydee/RiderProjects/InvertMouse_Y/InvertMouse_Y/bin/Debug/net9.0/InvertMouse_Y
+/home/kaydee/RiderProjects/InvertMouse_Y/InvertMouse_Y/bin/Debug/net9.0/InvertMouse_Y.deps.json
+/home/kaydee/RiderProjects/InvertMouse_Y/InvertMouse_Y/bin/Debug/net9.0/InvertMouse_Y.runtimeconfig.json
+/home/kaydee/RiderProjects/InvertMouse_Y/InvertMouse_Y/bin/Debug/net9.0/InvertMouse_Y.dll
+/home/kaydee/RiderProjects/InvertMouse_Y/InvertMouse_Y/bin/Debug/net9.0/InvertMouse_Y.pdb
+/home/kaydee/RiderProjects/InvertMouse_Y/InvertMouse_Y/obj/Debug/net9.0/InvertMouse_Y.GeneratedMSBuildEditorConfig.editorconfig
+/home/kaydee/RiderProjects/InvertMouse_Y/InvertMouse_Y/obj/Debug/net9.0/InvertMouse_Y.AssemblyInfoInputs.cache
+/home/kaydee/RiderProjects/InvertMouse_Y/InvertMouse_Y/obj/Debug/net9.0/InvertMouse_Y.AssemblyInfo.cs
+/home/kaydee/RiderProjects/InvertMouse_Y/InvertMouse_Y/obj/Debug/net9.0/InvertMouse_Y.csproj.CoreCompileInputs.cache
+/home/kaydee/RiderProjects/InvertMouse_Y/InvertMouse_Y/obj/Debug/net9.0/InvertMouse_Y.dll
+/home/kaydee/RiderProjects/InvertMouse_Y/InvertMouse_Y/obj/Debug/net9.0/refint/InvertMouse_Y.dll
+/home/kaydee/RiderProjects/InvertMouse_Y/InvertMouse_Y/obj/Debug/net9.0/InvertMouse_Y.pdb
+/home/kaydee/RiderProjects/InvertMouse_Y/InvertMouse_Y/obj/Debug/net9.0/InvertMouse_Y.genruntimeconfig.cache
+/home/kaydee/RiderProjects/InvertMouse_Y/InvertMouse_Y/obj/Debug/net9.0/ref/InvertMouse_Y.dll
